@@ -1,2 +1,3 @@
-# Slides for version control less taught at Software Carpentry workshop
-# Jan 15 - 16, 2015 held at the Univ. of Washington's UW Data Science Studio.
+# Slides for version control lesson taught at Software Carpentry Workshop
+
+Held at the Univ. of Washington's UW Data Science Studio, Jan 15 - 16, 2015
